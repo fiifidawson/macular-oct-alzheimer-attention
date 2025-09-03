@@ -4,6 +4,8 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-brightgreen)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.8%2B-orange)](https://tensorflow.org)
 
+<div style="text-align:center"><img src="image.png" /></div>
+
 ## Overview
 
 This repository contains the implementation for our paper presented at the Medical Image Computing in Resource Constrained Settings Workshop & Knowledge Interchange (MIRASOL) at MICCAI 2025.
