@@ -26,7 +26,7 @@ The model is trained on retinal OCT images with the following mapping:
 - `CNV` → `AD` (Alzheimer's Disease)
 - `DME` → `AD` (Alzheimer's Disease)
 
-## Repository Structure
+<!-- ## Repository Structure
 
 ```
 ├── README.md                   # This file
@@ -42,7 +42,7 @@ The model is trained on retinal OCT images with the following mapping:
 │   └── training/
 │       └── train.py           # Training pipeline
 └── models/                     # Saved model directory
-```
+``` -->
 
 ## Installation
 
