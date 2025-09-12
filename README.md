@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-brightgreen)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.8%2B-orange)](https://tensorflow.org)
 
-<div style="text-align:center"><img src="image.png" /></div>
+<div style="text-align:center"><img src="assets/image.png" /></div>
 
 ## Overview
 
